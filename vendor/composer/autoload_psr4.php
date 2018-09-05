@@ -33,6 +33,7 @@ return array(
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
     'League\\Flysystem\\' => array($vendorDir . '/league/flysystem/src'),
     'Laravel\\Tinker\\' => array($vendorDir . '/laravel/tinker/src'),
+    'Illuminate\\Html\\' => array($vendorDir . '/illuminate/html'),
     'Illuminate\\' => array($vendorDir . '/laravel/framework/src/Illuminate'),
     'Faker\\' => array($vendorDir . '/fzaninotto/faker/src/Faker'),
     'Dotenv\\' => array($vendorDir . '/vlucas/phpdotenv/src'),
@@ -42,6 +43,7 @@ return array(
     'Doctrine\\Common\\' => array($vendorDir . '/doctrine/common/lib/Doctrine/Common'),
     'DeepCopy\\' => array($vendorDir . '/myclabs/deep-copy/src/DeepCopy'),
     'Cron\\' => array($vendorDir . '/mtdowling/cron-expression/src/Cron'),
+    'Collective\\Html\\' => array($vendorDir . '/laravelcollective/html/src'),
     'App\\' => array($baseDir . '/app'),
     '' => array($vendorDir . '/nesbot/carbon/src'),
 );
